@@ -1,0 +1,17 @@
+<libros>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <precio>25.50</precio>
+    </libro>
+    <libro>
+        <titulo>La Casa de los Espíritus</titulo>
+        <autor>Isabel Allende</autor>
+        <precio>18.90</precio>
+    </libro>
+    <libro>
+        <titulo>La Sombra del Viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <precio>21.70</precio>
+    </libro>
+</libros>
